@@ -1,4 +1,5 @@
-# 🤖 AI-Powered Development: My First Agentic Engineering Project - 🚀 SaaS Project Manager - See below for SaaS details.
+# 🤖 AI-Powered Development: My First Agentic Engineering Project - 🚀 SaaS Project Manager - See below for SaaS details. 
+(Note: Not Production ready. The is just a prototype with a mock dashboard, however it was build using Roo code in about 20 minutes)
 
 This repository represents a significant milestone in my development journey - my first complete project built using AI Agentic tooling, demonstrating the power of human-AI collaboration in modern software development.
 🎯 What Makes This Special
