@@ -1,4 +1,4 @@
-# 🚀 SaaS Project Manager - 🤖 AI-Powered Development: My First Agentic Engineering Project
+# 🤖 AI-Powered Development: My First Agentic Engineering Project - 🚀 SaaS Project Manager - See below for SaaS details.
 
 This repository represents a significant milestone in my development journey - my first complete project built using AI Agentic tooling, demonstrating the power of human-AI collaboration in modern software development.
 🎯 What Makes This Special
